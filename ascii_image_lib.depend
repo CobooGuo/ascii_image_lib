@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1516611850 source:e:\gittoolsproject2016\ansicimagelib\asiic_image_lib.c
+	"asiic_image_lib.h"
+
+1516611792 e:\gittoolsproject2016\ansicimagelib\asiic_image_lib.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516611364 source:e:\gittoolsproject2016\ansicimagelib\main.cpp
+	<iostream>
+	"asiic_image_lib.h"
+
+1516611850 source:e:\gittoolsproject2016\asiic_image_lib\asiic_image_lib.c
+	"asiic_image_lib.h"
+
+1516611792 e:\gittoolsproject2016\asiic_image_lib\asiic_image_lib.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1516612400 source:e:\gittoolsproject2016\asiic_image_lib\main.cpp
+	<iostream>
+	"ascii_image_lib.h"
+
+1516612354 e:\gittoolsproject2016\asiic_image_lib\ascii_image_lib.h
+	<stdint.h>
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
